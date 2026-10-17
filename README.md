@@ -66,6 +66,7 @@
 
 - [Featured.com](https://featured.com) — Answer journalist requests, get quoted (and linked) in major publications.
 - [Qwoted](https://qwoted.com) — HARO alternative for expert commentary.
+- [BacklinkGenie](https://backlinkgenie.com) — AI outreach agent that finds blog posts where your product fits, verifies the editor and pitches a mention in that post.
 - [Napkin.ai](https://napkin.ai) — Turn text into visuals that attract backlinks.
 - [Pexels](https://pexels.com) — Free stock photos (always attribute correctly for image link building).
 
